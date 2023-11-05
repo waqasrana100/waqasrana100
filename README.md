@@ -19,7 +19,7 @@ A fervent Software Engineer with a talent for breathing life into code. My 4-yea
 - **Backend**: Node.js | Express.js
 - **Database**: MongoDB | SQL
 - **PM Tools**: Jira | ClickUp | Notion
-- **Dev Tools**: Git | Docker | Jest | Webpack
+- **Dev Tools**: Git | ReactDevTool | Javascript-debugger-terminal | PM2 | es-lint
 
 ## Highlights of My Work 🛠️
 
