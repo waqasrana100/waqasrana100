@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Rana Waqas! 👋
 
 I'm a passionate Software Engineer with a knack for debugging and 4 years of dedicated experience working with JavaScript technologies. I specialize in crafting robust telemedicine applications and interactive front-end designs.
 
@@ -12,9 +12,6 @@ I'm a passionate Software Engineer with a knack for debugging and 4 years of ded
 - 🐞 Debugging is where I shine - I love diving deep into code to untangle bugs and enhance performance.
 - 📚 I'm continuously learning and staying up-to-date with the latest industry trends and best practices.
 
-## My GitHub Contributions 📈
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## Tech Stack 💻
 
@@ -32,9 +29,8 @@ I'm a passionate Software Engineer with a knack for debugging and 4 years of ded
 
 I'm open to collaborating on projects and innovative ideas that make a difference. If you're interested in my work or just want to say hi, feel free to connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
-- [Twitter](https://twitter.com/yourtwitterhandle)
-- 📧 Email me at [your-email@example.com]
+- [LinkedIn](https://pk.linkedin.com/in/waqas-rana-08102017b)
+- 📧 Email me at [iamranawaqas100@gmail.com]
 
 ---
 
